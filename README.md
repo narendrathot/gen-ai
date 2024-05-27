@@ -1,3 +1,35 @@
+#pre - requirements for this project
+
+sentence-transformers
+uvicorn
+ctransformers 
+fastapi
+ipykernel
+langchain
+python-box
+streamlit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # gen-ai you should import models first
 
 import streamlit as st
