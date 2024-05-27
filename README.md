@@ -1,3 +1,8 @@
+#dowload any llama version to run in your local system 
+
+
+
+
 #pre - requirements for this project
 
 sentence-transformers
